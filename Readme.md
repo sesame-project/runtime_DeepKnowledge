@@ -17,7 +17,9 @@ parent
 
 ```
 
-
+#### Use Case MetaDat
+Each use case, i.e., KIOS, PAL, has its customized settings and metadata. 
+These can be provided up to request. 
 #### Installation
 
 ```
